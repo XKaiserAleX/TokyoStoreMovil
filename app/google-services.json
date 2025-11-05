@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377301599807",
+    "project_id": "tokyostore-1756e",
+    "storage_bucket": "tokyostore-1756e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377301599807:android:5fa3c98fdfb85443679a8a",
+        "android_client_info": {
+          "package_name": "com.example.tokyostoremovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt9v4JKxckgrMNkfjpMMfGzWcIj_QhhL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
